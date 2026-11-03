@@ -37,7 +37,7 @@ Em constante desenvolvimento de projetos acadêmicos e pessoais para colocar em 
  Estudos de lógica de programação e banco de dados.
 
 ## Contato
-GitHub: https://github.com/ArthurSevero
+GitHub: https://github.com/ArthurSevero7
 LinkedIn: www.linkedin.com/in/arthur-severo-1b924b351
 E-mail: arthursevero010@gmail.com
 ⭐ Obrigado por visitar meu perfil!
