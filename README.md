@@ -32,10 +32,11 @@ Testes de software
 Em constante desenvolvimento de projetos acadêmicos e pessoais para colocar em prática meus conhecimentos de programação.
 
 ## Projetos em destaque
-🚧 Projetos acadêmicos de Análise e Desenvolvimento de Sistemas.
-🚧 Aplicações Backend com Java e Python.
-🚧 Estudos de lógica de programação e banco de dados.
-📫 Contato
+ Projetos acadêmicos de Análise e Desenvolvimento de Sistemas.
+ Aplicações Backend com Java e Python.
+ Estudos de lógica de programação e banco de dados.
+
+## Contato
 GitHub: https://github.com/ArthurSevero
 LinkedIn: www.linkedin.com/in/arthur-severo-1b924b351
 E-mail: arthursevero010@gmail.com
