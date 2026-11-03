@@ -1,0 +1,139 @@
+PRESENÇA DIGITAL PROFISSIONAL NO GITHUB
+
+Aluno: Arthur Severo
+Curso: Análise e Desenvolvimento de Sistemas
+Área de interesse: Desenvolvimento Backend
+Tecnologias de interesse: Java e Python
+GitHub: https://github.com/ArthurSevero
+
+1. Introdução
+
+A presença digital profissional é um elemento importante para o desenvolvimento da carreira na área de Tecnologia da Informação. O GitHub permite apresentar projetos, compartilhar códigos, documentar soluções e demonstrar conhecimentos técnicos.
+
+O objetivo desta atividade foi estudar perfis profissionais utilizados como referência no mercado de tecnologia e identificar boas práticas de organização, documentação e apresentação de projetos.
+
+Com base nessa análise, busca-se estruturar um perfil GitHub mais profissional, destacando conhecimentos em desenvolvimento Backend, especialmente nas linguagens Java e Python.
+
+2. Etapa 1 — Pesquisa de mercado e benchmarking
+
+Foram selecionados dez profissionais reconhecidos na comunidade de desenvolvimento de software, considerando suas contribuições e áreas de atuação.
+
+2.1 Perfis profissionais selecionados
+Linus Torvalds — https://github.com/torvalds
+Referência em desenvolvimento de sistemas operacionais e criador do Linux.
+Guido van Rossum — https://github.com/gvanrossum
+Criador da linguagem Python e referência em desenvolvimento de software.
+Dan Abramov — https://github.com/gaearon
+Desenvolvedor conhecido por suas contribuições ao ecossistema React.
+Kent C. Dodds — https://github.com/kentcdodds
+Profissional com atuação em JavaScript, React e boas práticas de desenvolvimento.
+Evan You — https://github.com/yyx990803
+Criador do framework Vue.js.
+Sindre Sorhus — https://github.com/sindresorhus
+Desenvolvedor conhecido por diversos projetos de código aberto em JavaScript.
+Miguel Grinberg — https://github.com/miguelgrinberg
+Desenvolvedor com projetos e conteúdos relacionados a Python e desenvolvimento Backend.
+Addy Osmani — https://github.com/addyosmani
+Profissional da área de engenharia de software e desenvolvimento Web.
+Kelsey Hightower — https://github.com/kelseyhightower
+Referência em infraestrutura, automação e tecnologias Cloud.
+Theo Browne — https://github.com/t3dotgg
+Desenvolvedor e criador de conteúdos relacionados ao desenvolvimento de aplicações modernas.
+2.2 Critérios de análise
+
+Durante o benchmarking, foram considerados os seguintes aspectos:
+
+Apresentação profissional: importância de uma descrição objetiva, identificação da área de atuação e apresentação das principais tecnologias.
+
+Repositórios fixados: seleção de projetos relevantes para demonstrar conhecimentos e experiências práticas.
+
+Documentação: utilização de arquivos README para explicar objetivos, funcionalidades, tecnologias e instruções de execução.
+
+Licenciamento: presença de arquivos LICENSE para estabelecer as condições de utilização e distribuição dos projetos.
+
+Organização: utilização de arquivos .gitignore para evitar o compartilhamento de arquivos desnecessários ou temporários.
+
+Atividade: importância das contribuições públicas e da participação em projetos da comunidade.
+
+2.3 Reflexão sobre o benchmarking
+
+A análise dos perfis profissionais selecionados permitiu identificar a importância de manter uma apresentação clara e organizada no GitHub. Um padrão relevante é a utilização de descrições objetivas, que facilitam a identificação da área de atuação e das principais competências de cada profissional. Também se destaca a escolha estratégica dos repositórios fixados, priorizando projetos que demonstram conhecimentos técnicos e experiências práticas. A documentação dos projetos é outro aspecto importante, pois permite compreender o funcionamento das aplicações sem precisar analisar diretamente todo o código-fonte. A utilização de tecnologias, badges e links de contato contribui para uma apresentação mais acessível. Além disso, arquivos como LICENSE e .gitignore demonstram preocupação com boas práticas de desenvolvimento. Com base nessas observações, pretendo manter meu perfil organizado, destacar projetos acadêmicos e pessoais e melhorar a documentação dos meus repositórios. Como estudante de Análise e Desenvolvimento de Sistemas, pretendo utilizar o GitHub para demonstrar minha evolução em Java, Python, desenvolvimento Backend e bancos de dados.
+
+3. Etapa 2 — Organização do perfil profissional
+
+O perfil utilizado nesta atividade é:
+
+https://github.com/ArthurSevero
+
+A apresentação profissional foi estruturada considerando a formação acadêmica e o interesse em desenvolvimento Backend.
+
+3.1 Identidade profissional
+
+A apresentação do perfil utiliza o nome Arthur Severo e identifica o estudante como desenvolvedor Backend em formação, com interesse nas linguagens Java e Python.
+
+A descrição profissional também destaca o curso de Análise e Desenvolvimento de Sistemas e os objetivos de desenvolvimento na área de Tecnologia da Informação.
+
+3.2 Profile README
+
+Foi elaborado um README de perfil contendo:
+
+Apresentação pessoal e acadêmica.
+Objetivos profissionais.
+Interesse em desenvolvimento Backend.
+Tecnologias de programação.
+Ferramentas de desenvolvimento.
+Links para contato profissional.
+3.3 Tecnologias
+
+As principais tecnologias e ferramentas apresentadas são:
+
+Java.
+Python.
+Git.
+GitHub.
+Visual Studio Code.
+SQL.
+Desenvolvimento de APIs REST.
+Programação Orientada a Objetos.
+Spring Boot.
+
+As tecnologias em processo de aprendizagem são identificadas separadamente das ferramentas e linguagens já estudadas.
+
+4. Padronização dos repositórios
+
+A documentação dos projetos deve apresentar informações suficientes para que outros desenvolvedores compreendam sua finalidade e consigam executar as aplicações.
+
+Para isso, foi definida a seguinte estrutura:
+
+Nome descritivo do projeto.
+Apresentação e objetivo.
+Tecnologias utilizadas.
+Funcionalidades principais.
+Instruções de instalação e execução.
+Demonstração visual.
+Arquivo LICENSE.
+Arquivo .gitignore.
+
+Também é importante utilizar topics relacionados às tecnologias e funcionalidades de cada projeto.
+
+5. Fixação de repositórios
+
+A organização dos repositórios fixados deve priorizar trabalhos que demonstrem conhecimentos práticos em desenvolvimento de software.
+
+A seleção deverá conter entre três e seis projetos, incluindo obrigatoriamente um projeto acadêmico desenvolvido durante o semestre atual.
+
+Os projetos deverão ser selecionados considerando sua qualidade, documentação, relevância e relação com a área de desenvolvimento Backend.
+
+6. Considerações finais
+
+A realização desta atividade permitiu compreender a importância do GitHub como ferramenta de apresentação profissional e desenvolvimento de carreira na área de Tecnologia da Informação.
+
+A análise de profissionais experientes demonstrou que a organização dos repositórios, a qualidade da documentação e a apresentação das competências técnicas são aspectos importantes para construir uma presença digital profissional.
+
+Como estudante de Análise e Desenvolvimento de Sistemas, pretendo continuar aprimorando meus conhecimentos em Java e Python, desenvolvendo projetos acadêmicos e pessoais e utilizando o GitHub para registrar minha evolução como desenvolvedor.
+
+Dessa forma, o GitHub passa a funcionar não apenas como ferramenta de armazenamento de código, mas também como portfólio técnico e espaço de aprendizado contínuo.
+
+Perfil GitHub: https://github.com/ArthurSevero
+
+Aluno: Arthur Severo
