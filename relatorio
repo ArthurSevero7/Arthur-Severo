@@ -6,7 +6,7 @@ Curso: Análise e Desenvolvimento de Sistemas
 Tecnologias de interesse: Java e Python
 GitHub: https://github.com/ArthurSevero7
 
-1. Introdução
+## 1. Introdução
 
 A presença digital profissional é um elemento importante para o desenvolvimento da carreira na área de Tecnologia da Informação. O GitHub permite apresentar projetos, compartilhar códigos, documentar soluções e demonstrar conhecimentos técnicos.
 
@@ -14,7 +14,7 @@ O objetivo desta atividade foi estudar perfis profissionais utilizados como refe
 
 Com base nessa análise, busca-se estruturar um perfil GitHub mais profissional, destacando conhecimentos em desenvolvimento Backend, especialmente nas linguagens Java e Python.
 
-2. Etapa 1 — Pesquisa de mercado e benchmarking
+## 2. Etapa 1 — Pesquisa de mercado e benchmarking
 
 Foram selecionados dez profissionais reconhecidos na comunidade de desenvolvimento de software, considerando suas contribuições e áreas de atuação.
 
@@ -60,7 +60,7 @@ Atividade: importância das contribuições públicas e da participação em pro
 
 A análise dos perfis profissionais selecionados permitiu identificar a importância de manter uma apresentação clara e organizada no GitHub. Um padrão relevante é a utilização de descrições objetivas, que facilitam a identificação da área de atuação e das principais competências de cada profissional. Também se destaca a escolha estratégica dos repositórios fixados, priorizando projetos que demonstram conhecimentos técnicos e experiências práticas. A documentação dos projetos é outro aspecto importante, pois permite compreender o funcionamento das aplicações sem precisar analisar diretamente todo o código-fonte. A utilização de tecnologias, badges e links de contato contribui para uma apresentação mais acessível. Além disso, arquivos como LICENSE e .gitignore demonstram preocupação com boas práticas de desenvolvimento. Com base nessas observações, pretendo manter meu perfil organizado, destacar projetos acadêmicos e pessoais e melhorar a documentação dos meus repositórios. Como estudante de Análise e Desenvolvimento de Sistemas, pretendo utilizar o GitHub para demonstrar minha evolução em Java, Python, desenvolvimento Backend e bancos de dados.
 
-3. Etapa 2 — Organização do perfil profissional
+## 3. Etapa 2 — Organização do perfil profissional
 
 O perfil utilizado nesta atividade é:
 
@@ -100,7 +100,7 @@ Spring Boot.
 
 As tecnologias em processo de aprendizagem são identificadas separadamente das ferramentas e linguagens já estudadas.
 
-4. Padronização dos repositórios
+## 4. Padronização dos repositórios
 
 A documentação dos projetos deve apresentar informações suficientes para que outros desenvolvedores compreendam sua finalidade e consigam executar as aplicações.
 
@@ -117,7 +117,7 @@ Arquivo .gitignore.
 
 Também é importante utilizar topics relacionados às tecnologias e funcionalidades de cada projeto.
 
-5. Projetos desenvolvidos e publicados no GitHub
+## 5. Projetos desenvolvidos e publicados no GitHub
 Como parte da construção do meu portfólio técnico, foram selecionados quatro projetos acadêmicos e práticos publicados no GitHub, que demonstram minha evolução no desenvolvimento de software e na resolução de problemas utilizando ferramentas de programação.
 
 5.1 Desafio Monitoramento
@@ -145,7 +145,7 @@ Os quatro projetos representam diferentes experiências práticas e contribuem p
 
 A publicação desses trabalhos no GitHub permite manter um histórico dos projetos desenvolvidos durante minha formação em Análise e Desenvolvimento de Sistemas e facilita o acesso de professores, colegas e futuros recrutadores às minhas atividades.
 
-6. Considerações finais
+## 6. Considerações finais
 
 A realização desta atividade permitiu compreender a importância do GitHub como ferramenta de apresentação profissional e desenvolvimento de carreira na área de Tecnologia da Informação.
 
