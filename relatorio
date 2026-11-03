@@ -116,13 +116,33 @@ Arquivo .gitignore.
 
 Também é importante utilizar topics relacionados às tecnologias e funcionalidades de cada projeto.
 
-5. Fixação de repositórios
+5. Projetos desenvolvidos e publicados no GitHub
+Como parte da construção do meu portfólio técnico, foram selecionados quatro projetos acadêmicos e práticos publicados no GitHub, que demonstram minha evolução no desenvolvimento de software e na resolução de problemas utilizando ferramentas de programação.
 
-A organização dos repositórios fixados deve priorizar trabalhos que demonstrem conhecimentos práticos em desenvolvimento de software.
+5.1 Desafio Monitoramento
+Repositório: https://github.com/ArthurSevero7/desafio-monitoramento
 
-A seleção deverá conter entre três e seis projetos, incluindo obrigatoriamente um projeto acadêmico desenvolvido durante o semestre atual.
+Projeto prático relacionado ao desenvolvimento de uma solução de monitoramento. Integra meu portfólio como demonstração das atividades desenvolvidas durante minha formação acadêmica.
 
-Os projetos deverão ser selecionados considerando sua qualidade, documentação, relevância e relação com a área de desenvolvimento Backend.
+5.2 Organizador de Despesas
+Repositório: https://github.com/ArthurSevero7/organizador-despesas
+
+Projeto voltado à organização de despesas, relacionado à aplicação de conceitos de programação na resolução de problemas cotidianos e no controle financeiro.
+
+5.3 Calculadora Flowgorithm
+Repositório: https://github.com/ArthurSevero7/calculadora-flowgorithm
+
+Projeto desenvolvido com Flowgorithm, ferramenta utilizada para representar algoritmos por meio de fluxogramas. Contribui para o desenvolvimento do raciocínio lógico e da compreensão de estruturas de programação.
+
+5.4 Ordenação Supermercado
+Repositório: https://github.com/ArthurSevero7/ordenacao-supermercado
+
+Projeto prático relacionado à organização e ordenação de informações em um contexto de supermercado, permitindo aplicar conceitos de lógica e algoritmos.
+
+5.5 Importância dos projetos para o portfólio
+Os quatro projetos representam diferentes experiências práticas e contribuem para demonstrar meus conhecimentos em lógica de programação, organização de informações e desenvolvimento de soluções computacionais.
+
+A publicação desses trabalhos no GitHub permite manter um histórico dos projetos desenvolvidos durante minha formação em Análise e Desenvolvimento de Sistemas e facilita o acesso de professores, colegas e futuros recrutadores às minhas atividades.
 
 6. Considerações finais
 
@@ -134,6 +154,6 @@ Como estudante de Análise e Desenvolvimento de Sistemas, pretendo continuar apr
 
 Dessa forma, o GitHub passa a funcionar não apenas como ferramenta de armazenamento de código, mas também como portfólio técnico e espaço de aprendizado contínuo.
 
-Perfil GitHub: https://github.com/ArthurSevero
+Perfil GitHub: https://github.com/ArthurSevero7
 
 Aluno: Arthur Severo
